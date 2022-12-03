@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295820721819",
+    "project_id": "lucampus-2ab46",
+    "storage_bucket": "lucampus-2ab46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295820721819:android:c2cb9fdf130f45423c503e",
+        "android_client_info": {
+          "package_name": "com.lu.lucampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295820721819-1547g3ss3nqov6vnhvg31libra9081pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqoUO-cpvZoSV-oBtBC0B18BE5DXxEAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295820721819-1547g3ss3nqov6vnhvg31libra9081pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
